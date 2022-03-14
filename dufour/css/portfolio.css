@@ -1,0 +1,136 @@
+.me{
+    width: 500px;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+h2{
+    font-size: 1.5em;
+}
+
+.nav-link{
+    color: black !important;
+}
+
+.hello{
+    font-size: 1.5em;
+    font-weight: lighter;
+}
+
+.moi {
+    font-size: 2em;
+}
+
+.moip{
+    color: gray;
+}
+
+.moijp a{
+    display: block;
+    padding: 10px;
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    border-radius: 20px;
+    width: 200px;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    margin-top: 100px !important;
+    margin-bottom: 50px !important;
+    text-transform: uppercase !important;
+}
+
+.cpte h4{
+    margin-top: 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.cpte{
+    text-align: center;
+}
+
+.icone{
+    width: 40px; 
+}
+
+.cpte div{
+    padding: 20px;
+}
+
+.cpte div:nth-child(3){
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+}
+
+.prtf div img{
+    width: 295px;
+    margin-bottom: 40px;
+}
+
+.flm div:first-child{
+    margin-left: 100px ;
+}
+
+.flm div:first-child p{
+    font-size: .8em;
+    color: gray;
+    width: 80%;
+}
+
+.btn{
+    margin-left: 250px;
+}
+
+.taff{
+    text-align: center;
+}
+
+.taff h2{
+    margin-top: 50px;
+    font-size: 1.8em;
+}
+
+.taff img{
+    width: 100px;
+    border-radius: 50px;
+}
+
+.taff p{
+    width: 80%;
+    margin: 50px auto;
+}
+
+.fmenu{
+    text-align: center;
+}
+
+.fmenu div ul.nav{
+    align-items: center ;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.fmenu div ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+
+.fmenu div ul li{
+    margin-left: 20px;
+}
+
+.fmenu div p{
+    font-size: 1em;
+    color: gray;
+}

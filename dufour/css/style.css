@@ -1,0 +1,166 @@
+
+body{
+    background-color: #e2a89a !important; 
+}
+
+header{
+    margin: auto;
+    width: 1024px;
+}
+
+/*MENU*/
+
+.menu{
+    display: flex;
+    list-style: none;
+}
+
+.menu li{
+    margin:10px;
+    margin-top: 65px;
+    font-size: 15px;  
+}
+
+.menu li a{
+    color: black;
+    text-decoration: none;
+}
+
+.menu li a:hover{
+    color:white;
+}
+
+/*MAIN*/
+
+main{
+    margin: auto;
+    background-color: white;
+    width: 1024px;
+}
+.slider{
+    padding: 100px;
+}
+
+/*text competance*/
+
+.text{
+    padding: 25px;
+    font-size: 15px;
+    border-top: 3px solid gray;
+}
+
+.text h3{
+    color: #524949;
+}
+
+.text p{
+    font-size: 15px;
+    color: #524949;
+}
+
+.text div a{
+    color: black;
+    font-weight: bold;
+}
+
+.text div a:hover{
+    color: white;
+    background-color: gray;
+    text-decoration: none;
+}
+
+/*exemple travaile*/
+
+.exemple{
+    border-top: 3px solid gray;
+    padding: 30px;
+    border-bottom: 3px solid gray;
+}
+
+.exemple h2{
+    color: #524949;
+}
+
+.swork{
+    text-align: center;
+    font-size: 15px;
+}
+
+.exemple a{
+    color: black;
+    font-weight: bold;
+}
+
+.exemple a:hover{
+    color: white;
+    background-color: gray;
+    text-decoration: none;
+}
+
+.exemple p{
+    font-size: 13px;
+    color: #524949;
+}
+
+/*ABOUT*/
+
+.out{
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.about{
+    background-image: url("../icones/icone_titre.jpg");
+}
+
+.about h3{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.out p{
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    font-size: 14px;
+    color: #524949;
+}
+
+.out a{
+    color: black;
+    font-weight: bold;
+}
+
+.out a:hover{
+    color: white;
+    background-color: gray;
+    text-decoration: none;
+}
+
+
+
+/*FOOTER*/
+
+footer{
+    margin: auto;
+    padding: 10px;
+    width: 1024px;
+}
+
+.menu2{
+    display: flex;
+    list-style: none;
+}
+
+.menu2 li{
+    margin:10px;
+    font-size: 15px;  
+}
+
+.menu2 li a{
+    color: black;
+    text-decoration: none;
+}
+
+table tr td{
+    padding: 5px;
+} 
